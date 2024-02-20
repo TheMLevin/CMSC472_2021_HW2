@@ -18,17 +18,17 @@ You will work on this assignment in Google Colab. To get our starter notebook in
 4. Select `hw2.ipynb`
 5. Select `Copy to Drive` to create your own copy, where you will do your work.
 
-Be careful: there are a few explaination questions asked which needs to be answered apart from the coding questions. Make sure to read everything, and complete all exercises.
+Be careful: there are a few explanation questions asked which need to be answered apart from the coding questions. Make sure to read everything, and complete all exercises.
 
 ## Submission
 
 Submission needs to be done on Gradescope. Upload the iPython notebook to Google Drive if you were not working in Colab already. Now, get the share link for the iPython notebook and embed it inside the notebook (you can do this by opening the notebook on the drive using Google Colab). Do not forget to give view access on this link!
 
-Please generate a PDF from the iPython notebook and upload it to Gradescope. Please make sure that the PDF contains the link to the Google Drive share otherwise the assignment may not be graded. Additionally, make sure the PDF shows all code and relevant outputs. Missing code and missing outputs in the PDF will be treated as incomplete and points will be deducted accordingly. Make sure to complete question selection in Gradescope; we will deduct points at our discretion if question-answer pairs are not properly indicated. 
+Please generate a PDF from the iPython notebook and upload it to Gradescope. Please make sure that the PDF contains the link to the Google Drive share otherwise the assignment may not be graded. Additionally, make sure the PDF shows all code and relevant outputs. **Missing code and missing outputs in the PDF will be treated as incomplete and points will be deducted accordingly.** Make sure to complete question selection in Gradescope; **we will deduct points at our discretion if question-answer pairs are not properly indicated.** 
 
 ## Deadline
 
-Assignment 2 is due on Feb 28 at 5:00 PM.  
+Assignment 2 is due on Feb 27 at 5:00 PM.  
 
 ## Notes
 
